@@ -8,4 +8,4 @@
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-<img src="./Media/pato.jpeg" style="height: 50%; width:50%;">
+<img src="./Media/pato.jpeg" style="height: 25%; width:25%;">
